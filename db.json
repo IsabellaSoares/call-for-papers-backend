@@ -3,7 +3,7 @@
     {
       "event": "React Bootcamp",
       "userId": "3154754594535841",
-      "description": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.\n\nAo final, você já estará pronta para trabalhar como uma programadora junior!",
+      "description": "React é uma das libs mais utilizadas pelas empresas para desenvolvimento de aplicações web. Neste bootcamp, vamos te ajudar a acelerar seus conhecimentos de forma prática, com ajuda de projetos, palestras e laboratórios.\n\n\n\nAo final, você já estará pronta para trabalhar como uma programadora junior!",
       "schedule": "01 Maio, 9:00",
       "local": "Stone Pagamentos",
       "organizer": "Olívia Resende",
@@ -13,8 +13,11 @@
       ],
       "limited_spaces": true,
       "partners": [
+        "comunidades",
         "palestrantes",
-        "comunidades"
+        "universidade",
+        "startups",
+        "imprensa"
       ],
       "id": "812151"
     },
@@ -261,22 +264,73 @@
   "profile": [],
   "profiles": [
     {
-      "id": "59138",
-      "googleId": "103699502833654596880",
-      "name": "Isabella Soares",
-      "email": "isabella.soares.28@gmail.com",
-      "password": "U2FsdGVkX18nLIEkZu2G/S4r2TfNO3vxAkt3tCYc5i8=",
+      "name": "Olívia Resende",
+      "id": "3154754594535841",
+      "role": "Both",
+      "email": "olivinharesende@hotmail.com",
+      "localization": "Ouro Preto - MG",
+      "registerDate": "2020-04-12",
+      "apresentation": "Sou formada em Engenharia de Controle e Automação, moro em Ouro Preto-MG.\nEntusiasta no desenvolvimento frontend com skills em HTML, CSS, JavaScript, React e Node.",
+      "githubLink": "https://github.com/oliviaresende",
+      "linkedinLink": "https://www.linkedin.com/in/oliviasilvaresende/",
+      "twitterLink": "https://twitter.com/oliviaresende",
+      "facebookLink": "https://www.facebook.com/olivinharesende",
+      "mediumLink": "",
+      "interests": [
+        "JavaScript",
+        " React",
+        " Node",
+        " Python"
+      ],
+      "userPicture": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=3154754594535841&height=50&width=50&ext=1590697049&hash=AeQWUMUkjTaVPO2a"
+    },
+    {
+      "id": "3036218123066022",
+      "role": "Both",
+      "email": "matancredi@hotmail.com",
+      "localization": "Mogi das Cruzes, SP",
+      "registerDate": "2020-04-15",
+      "apresentation": "Olá, sou estudante de React e meu objetivo nessa plataforma é conhecer eventos em que eu possa palestrar",
+      "githubLink": "http://github.com/matancredi",
+      "linkedinLink": "",
+      "twitterLink": "",
+      "facebookLink": "",
+      "mediumLink": "",
+      "interests": [
+        "react",
+        " angular",
+        " vue",
+        " postgres",
+        " c#"
+      ]
+    },
+    {
+      "id": "2665688483678067",
+      "role": "Both",
+      "email": "gabrielesuzart@gmail.com",
       "localization": "",
-      "registerDate": "2020-04-28",
+      "registerDate": "2020-04-20",
       "apresentation": "",
       "githubLink": "",
       "linkedinLink": "",
       "twitterLink": "",
       "facebookLink": "",
       "mediumLink": "",
-      "interests": [],
-      "userPicture": "https://lh3.googleusercontent.com/a-/AOh14GgekV1cG9aq1fGc_LuTcBQABMnskZetwsYiDpr77Q=s96-c",
-      "role": "Both"
+      "interests": []
+    },
+    {
+      "id": "1613191052178209",
+      "role": "Both",
+      "email": "isabellasoares.contato@hotmail.com",
+      "localization": "",
+      "registerDate": "2020-04-20",
+      "apresentation": "",
+      "githubLink": "",
+      "linkedinLink": "",
+      "twitterLink": "",
+      "facebookLink": "",
+      "mediumLink": "",
+      "interests": []
     }
   ]
 }
